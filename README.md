@@ -22,9 +22,9 @@ In der Gesamtübersicht sind die einzelnen Abschnitte des Studiums aufgelistet. 
 
 Bei den Grundfächer, Kommunikation & Führung, den Schwerpunkten und dem Allgemeinen muss nichts unternommen werden. Diese Daten kommen aus der Gesamtübersicht und werden hier zur besseren Übersicht dargestellt. Einzig die Spalten "Status Zeus" und "Bemerkungen" können hier ausgefüllt werden.
 
->[NOTE]
->Die Schriftart in der Spalte Zeus ist auf `Wingdings` eingestellt. Dies dient dazu das Häckchen oder x darzustellen.
->Für ein Häckchen muss ein `ü` geschrieben werden. Für ein x muss ein `û` geschrieben werden.
+> [!IMPORTANT]  
+> Die Schriftart in der Spalte Zeus ist auf `Wingdings` eingestellt. Dies dient dazu das Häckchen oder x darzustellen.
+> Für ein Häckchen muss ein `ü` geschrieben werden. Für ein x muss ein `û` geschrieben werden.
 
 ### Gesamtübersicht
 
