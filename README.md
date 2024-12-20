@@ -32,7 +32,7 @@ Die Gesamtübersicht dient dazu die Daten respektive die LLP einzutragen.
 
 ![Gesamtübersicht](./docs/pictures/Gesamtuebersicht.png)
 
-Die Gesamtübersicht hat die gleiche Aufteilung wie die Hauptübersicht. 
+Die Gesamtübersicht hat die gleiche Aufteilung wie die Hauptübersicht.
 Für jedes Fach kann in der Spalte Status, der Status des Faches ausgewählt werden.
 
 Folgende Status stehen zur Verfügung:
